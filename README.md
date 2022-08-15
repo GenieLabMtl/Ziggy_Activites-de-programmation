@@ -1,5 +1,5 @@
 
-> Ouvrir cette page à [https://jfprimeau-genielab.github.io/ziggy_activites-de-programmation/](https://jfprimeau-genielab.github.io/ziggy_activites-de-programmation/)
+> Ouvrir cette page à [https://GenieLabMtl.github.io/ziggy_activites-de-programmation/](https://GenieLabMtl.github.io/ziggy_activites-de-programmation/)
 
 ## Utiliser comme extension
 
@@ -8,22 +8,22 @@ Ce dépôt peut être ajouté en tant qu'**extension** dans MakeCode.
 * ouvrir [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * cliquez sur **Nouveau projet**
 * cliquez sur **Extensions** dans le menu engrenage
-* recherchez **https://github.com/jfprimeau-genielab/ziggy_activites-de-programmation** et importez
+* recherchez **https://github.com/GenieLabMtl/ziggy_activites-de-programmation** et importez
 
-## Éditer ce projet ![Badge du statut de la compilation](https://github.com/jfprimeau-genielab/ziggy_activites-de-programmation/workflows/MakeCode/badge.svg)
+## Éditer ce projet ![Badge du statut de la compilation](https://github.com/GenieLabMtl/ziggy_activites-de-programmation/workflows/MakeCode/badge.svg)
 
 Éditer ce dépôt dans MakeCode.
 
 * ouvrir [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * cliquez sur **Importer** puis cliquez sur **Importer l'URL **
-* collez **https://github.com/jfprimeau-genielab/ziggy_activites-de-programmation** et cliquez sur importer
+* collez **https://github.com/GenieLabMtl/ziggy_activites-de-programmation** et cliquez sur importer
 
 ## Aperçu des blocs
 
 Cette section montre le code des blocs du dernier commit dans la branche master.
 Cette image peut prendre quelques minutes pour être actualisée.
 
-![Un rendu de la vue des blocs](https://github.com/jfprimeau-genielab/ziggy_activites-de-programmation/raw/master/.github/makecode/blocks.png)
+![Un rendu de la vue des blocs](https://github.com/GenieLabMtl/ziggy_activites-de-programmation/raw/master/.github/makecode/blocks.png)
 
 #### Métadonnées (utilisées pour la recherche, le rendu)
 
